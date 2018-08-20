@@ -1,0 +1,5 @@
+C:\Users\Kryuchkova\Documents\Visual Studio 2013\Projects\Integration Services Project1\Create_list\bin\Debug\Create_list.exe.config
+C:\Users\Kryuchkova\Documents\Visual Studio 2013\Projects\Integration Services Project1\Create_list\bin\Debug\Create_list.exe
+C:\Users\Kryuchkova\Documents\Visual Studio 2013\Projects\Integration Services Project1\Create_list\bin\Debug\Create_list.pdb
+C:\Users\Kryuchkova\Documents\Visual Studio 2013\Projects\Integration Services Project1\Create_list\obj\Debug\Create_list.exe
+C:\Users\Kryuchkova\Documents\Visual Studio 2013\Projects\Integration Services Project1\Create_list\obj\Debug\Create_list.pdb
